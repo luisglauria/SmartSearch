@@ -7,4 +7,5 @@ EQUIPE DE DESENVOLVIMENTO:
 - Gabriel França
 - Ian Monteiro
 - Luis Guilherme
+- Pedro Antônio
 
